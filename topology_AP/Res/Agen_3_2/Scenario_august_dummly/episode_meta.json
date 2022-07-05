@@ -1,0 +1,11 @@
+{
+    "agent_seed": null,
+    "backend_type": "LightSimBackend_training_data_track1",
+    "chronics_max_timestep": "864",
+    "chronics_path": "C:\\Users\\Kun\\Desktop\\L2RPN_NIPS_2020_a_PPO_Solution-master\\training_data_track1\\chronics\\Scenario_august_dummly",
+    "cumulative_reward": 838504.625,
+    "env_seed": null,
+    "env_type": "Environment_training_data_track1",
+    "grid_path": "C:\\Users\\Kun\\Desktop\\L2RPN_NIPS_2020_a_PPO_Solution-master\\training_data_track1\\grid.json",
+    "nb_timestep_played": 864
+}
