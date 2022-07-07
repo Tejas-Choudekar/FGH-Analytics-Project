@@ -1,0 +1,20 @@
+{
+    "action_size": 451,
+    "activs": [
+        "relu",
+        "relu",
+        "relu"
+    ],
+    "list_attr_obs": [
+        "gen_p",
+        "gen_v",
+        "load_p",
+        "load_q"
+    ],
+    "observation_size": 32,
+    "sizes": [
+        300,
+        300,
+        300
+    ]
+}
